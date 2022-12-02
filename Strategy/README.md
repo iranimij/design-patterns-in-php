@@ -16,4 +16,5 @@ We change some functions that vary (Fly and Quack), encapsulate them and use the
 
 #### The big picture on encapsulated behaviors and the Strategy design pattern:
 
-![](D:/recycle/october/Screenshot_2.png)
+![](Screenshot_2.png)
+###### The image is from Head first design pattern book.
