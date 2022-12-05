@@ -1,2 +1,5 @@
-# design-patterns-in-php
-Useful PHP example codes for important design patterns
+# Design patterns in PHP
+In this repository we provide some useful examples for most famous design patterns like :
+
+1. [Strategy Pattern in PHP](https://github.com/iranimij/design-patterns-in-php/tree/master/Strategy)
+2. [Observer Pattern in PHP](https://github.com/iranimij/design-patterns-in-php/tree/master/Observer)
